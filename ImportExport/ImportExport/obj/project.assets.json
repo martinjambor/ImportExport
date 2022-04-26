@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4210026\\RiderProjects\\ImportExport\\ImportExport\\ImportExport\\ImportExport.csproj",
+      "projectUniqueName": "C:\\Users\\4210026\\RiderProjects\\Client\\ImportExport\\ImportExport\\ImportExport\\ImportExport.csproj",
       "projectName": "ImportExport",
-      "projectPath": "C:\\Users\\4210026\\RiderProjects\\ImportExport\\ImportExport\\ImportExport\\ImportExport.csproj",
+      "projectPath": "C:\\Users\\4210026\\RiderProjects\\Client\\ImportExport\\ImportExport\\ImportExport\\ImportExport.csproj",
       "packagesPath": "C:\\Users\\4210026\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4210026\\RiderProjects\\ImportExport\\ImportExport\\ImportExport\\obj\\",
+      "outputPath": "C:\\Users\\4210026\\RiderProjects\\Client\\ImportExport\\ImportExport\\ImportExport\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\4210026\\AppData\\Roaming\\NuGet\\NuGet.Config",
